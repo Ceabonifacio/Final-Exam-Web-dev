@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 220" role="img" aria-labelledby="title">
+  <title id="title">Mathematics textbook</title>
+  <ellipse cx="163" cy="195" rx="104" ry="11" fill="#203D37" opacity=".12"/>
+  <g transform="rotate(-5 160 108)">
+    <path d="M77 31h145a12 12 0 0 1 12 12v137H88a11 11 0 0 1-11-11z" fill="#4F8580"/>
+    <path d="M92 42h126v120H92a10 10 0 0 0-10 10V52a10 10 0 0 1 10-10" fill="#F9F7E5"/>
+    <path d="M99 53h111v98H99z" fill="#E3D9EE"/>
+    <path d="M94 42v121" stroke="#85C78F" stroke-width="7"/>
+    <path d="M124 77h60M124 95h50M124 113h57" stroke="#203D37" stroke-linecap="round" stroke-width="6" opacity=".72"/>
+    <circle cx="155" cy="137" r="10" fill="#FFAE9F"/>
+    <path d="M202 53h8v98h-8" fill="#D3F9FF"/>
+  </g>
+  <path d="m238 55 8-14 8 14m-8-11v20" fill="none" stroke="#608D62" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+</svg>

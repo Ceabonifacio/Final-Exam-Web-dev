@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 220" role="img" aria-labelledby="title">
+  <title id="title">Scientific calculator</title>
+  <ellipse cx="160" cy="198" rx="68" ry="9" fill="#203D37" opacity=".12"/>
+  <g transform="rotate(5 160 108)">
+    <rect x="105" y="18" width="112" height="168" rx="16" fill="#294E49"/>
+    <rect x="116" y="31" width="90" height="42" rx="6" fill="#DDF0CF"/>
+    <text x="127" y="58" fill="#294E49" font-family="sans-serif" font-size="18">123.45</text>
+    <g fill="#F7F4E5">
+      <rect x="117" y="86" width="24" height="20" rx="5"/><rect x="149" y="86" width="24" height="20" rx="5"/><rect x="181" y="86" width="24" height="20" rx="5"/>
+      <rect x="117" y="114" width="24" height="20" rx="5"/><rect x="149" y="114" width="24" height="20" rx="5"/><rect x="181" y="114" width="24" height="20" rx="5"/>
+      <rect x="117" y="142" width="24" height="20" rx="5"/><rect x="149" y="142" width="24" height="20" rx="5"/><rect x="181" y="142" width="24" height="20" rx="5"/>
+    </g>
+    <path d="M126 92v8m-4-4h8m27-2h8m-3-4-5 8m42-4h-8m4-4v8m-63 20h8m24 0h8m24 0h8m-63 28h8m24 0h8m24 0h8" stroke="#5C806B" stroke-linecap="round" stroke-width="2"/>
+    <rect x="149" y="170" width="24" height="7" rx="3.5" fill="#FFAE9F"/>
+  </g>
+</svg>

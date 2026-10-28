@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 220" role="img" aria-labelledby="title">
+  <title id="title">Art supplies set</title>
+  <ellipse cx="160" cy="195" rx="103" ry="10" fill="#203D37" opacity=".12"/>
+  <path d="m92 157 26-112 17 4-14 114zm33 5 8-130 18 1-1 131zm31 0 8-120 18 2-8 119zm34 1 17-101 18 4-22 100z" fill="#85C78F" stroke="#294E49" stroke-linejoin="round" stroke-width="3"/>
+  <path d="m118 45 8-17 9 21m-2-17 8-18 10 19m-9-14 9-15 9 17m-2-14 10-16 9 20m1-13 11-12 7 22" fill="#FFAE9F" stroke="#294E49" stroke-linejoin="round" stroke-width="3"/>
+  <path d="M198 112h45l-5 63a9 9 0 0 1-9 8h-17a9 9 0 0 1-9-8z" fill="#D3F9FF" stroke="#294E49" stroke-width="4"/>
+  <path d="M197 111h47v13h-47z" fill="#E3D9EE" stroke="#294E49" stroke-width="4"/>
+  <path d="M211 143h17m-17 14h17" stroke="#568B78" stroke-linecap="round" stroke-width="4"/>
+</svg>

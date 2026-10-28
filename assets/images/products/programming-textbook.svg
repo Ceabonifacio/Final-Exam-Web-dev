@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 220" role="img" aria-labelledby="title">
+  <title id="title">Programming textbook</title>
+  <ellipse cx="162" cy="194" rx="100" ry="10" fill="#203D37" opacity=".12"/>
+  <g transform="rotate(4 160 110)">
+    <path d="M87 28h132a13 13 0 0 1 13 13v135H99a12 12 0 0 1-12-12z" fill="#38736F"/>
+    <path d="M101 40h117v121h-117z" fill="#E7F5E9"/>
+    <path d="M101 40v121" stroke="#FFAE9F" stroke-width="8"/>
+    <rect x="119" y="57" width="85" height="42" rx="8" fill="#D3F9FF"/>
+    <path d="m140 69-9 9 9 9m28-18 9 9-9 9m-10-21-5 24" fill="none" stroke="#294E49" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    <path d="M122 116h71m-71 14h59m-59 14h65" stroke="#506F62" stroke-linecap="round" stroke-width="5" opacity=".75"/>
+  </g>
+</svg>
