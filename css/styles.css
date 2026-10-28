@@ -1,3 +1,4 @@
+/* Brand palette, typography, and reusable color values. */
 :root {
   color-scheme: light;
   --cream: #FDFFD8;
@@ -14,6 +15,7 @@
   --body-font: "Inter", "Avenir Next", sans-serif;
 }
 
+/* Base document defaults and accessible link/focus styles. */
 * {
   box-sizing: border-box;
 }
@@ -61,6 +63,7 @@ a {
   -webkit-tap-highlight-color: transparent;
 }
 
+/* Shared centered page width and icon font setup. */
 .container {
   width: min(calc(100% - 48px), 1180px);
   margin-inline: auto;
@@ -85,6 +88,7 @@ a {
   vertical-align: middle;
 }
 
+/* Keyboard-only shortcut, shown when it receives focus. */
 .skip-link {
   position: absolute;
   z-index: 10;
@@ -101,6 +105,7 @@ a {
   transform: translateY(0);
 }
 
+/* Shared header, logo, navigation, and call-to-action button. */
 .site-header {
   position: relative;
   z-index: 2;
@@ -215,6 +220,7 @@ a {
   font-size: 14px;
 }
 
+/* Home page hero: text beside an illustrated school-supplies collage. */
 .hero {
   display: grid;
   min-height: 610px;
@@ -450,6 +456,7 @@ h3 {
   font-size: 42px;
 }
 
+/* Home page benefit cards and the Browse / Connect / Reuse steps. */
 .section-space {
   padding-block: 76px;
 }
@@ -580,6 +587,7 @@ h3 {
   margin-top: 22px;
 }
 
+/* Shared dark footer used on all three pages. */
 .site-footer {
   padding: 54px 0 20px;
   color: #F7F6E4;
@@ -681,6 +689,7 @@ h3 {
   margin: 0;
 }
 
+/* Marketplace intro, category labels, and sample listing cards. */
 .market-intro {
   display: flex;
   align-items: end;
@@ -866,6 +875,7 @@ h3 {
   height: 8px;
 }
 
+/* About page intro and mission statement. */
 .about-intro {
   display: grid;
   grid-template-columns: 1.05fr 0.95fr;
@@ -902,6 +912,7 @@ h3 {
   color: #3F794B;
 }
 
+/* About page process, community benefits, and team/contact panels. */
 .how-section {
   padding-block: 74px 70px;
   background: var(--lavender);
@@ -1049,6 +1060,7 @@ h3 {
   overflow-wrap: anywhere;
 }
 
+/* Tablet layout: reduce spacing and switch product cards to two columns. */
 @media (max-width: 960px) {
   .header-inner {
     gap: 17px;
@@ -1117,6 +1129,7 @@ h3 {
   }
 }
 
+/* Mobile layout: stack page sections and navigation; use one product column. */
 @media (max-width: 720px) {
   .container {
     width: min(calc(100% - 36px), 560px);
@@ -1308,6 +1321,7 @@ h3 {
   }
 }
 
+/* Small phones: tighten spacing and keep buttons and cards within the viewport. */
 @media (max-width: 500px) {
   .container {
     width: min(calc(100% - 32px), 440px);
@@ -1453,6 +1467,7 @@ h3 {
   }
 }
 
+/* Respect a visitor's reduced-motion preference. */
 @media (prefers-reduced-motion: reduce) {
   *,
   *::before,
